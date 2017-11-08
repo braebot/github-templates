@@ -1,7 +1,7 @@
 ### Problem
 
-<!-- brief description of issue, bullets are preferred -->
+<!-- brief description of problem/why -->
 
 ### Solution
 
-<!-- brief description of solution, bullets are preferred -->
+<!-- brief description of solution/what -->
